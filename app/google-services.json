@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "966824379126",
+    "firebase_url": "https://covidmessengerapp.firebaseio.com",
+    "project_id": "covidmessengerapp",
+    "storage_bucket": "covidmessengerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966824379126:android:8cfe048d5de8b05bc3e2d7",
+        "android_client_info": {
+          "package_name": "com.example.covidmessergerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966824379126-8d1brmif868sbcb6sf11hf2i1e9cih5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvqIlOg9qeTzwJOhP2UJYkotiSVGGutM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966824379126-8d1brmif868sbcb6sf11hf2i1e9cih5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
